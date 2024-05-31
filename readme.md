@@ -1,6 +1,9 @@
-#test table
+#test 1
 
-#test title
+#test 2
 
-| table | title |
-|-------|-------|
+| test 1 | test 2 |
+|--------|--------|
+
+| test | test | test |
+|------|------|------|
